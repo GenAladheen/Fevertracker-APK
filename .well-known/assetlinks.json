@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.genaladheen.twa",
+        "sha256_cert_fingerprints": ["06:88:1D:1A:EF:8D:50:53:8D:5E:1A:D2:74:68:40:51:4C:87:87:AC:9B:8F:44:05:DC:D2:98:8E:34:51:16:58"]
+      }
+    }]
