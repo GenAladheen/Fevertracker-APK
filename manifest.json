@@ -1,0 +1,16 @@
+{
+  "name": "Fever Tracker",
+  "short_name": "Fever Tracker",
+  "description": "Track fever episodes, temperatures, Panadol doses and symptoms for your children.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF3F8",
+  "theme_color": "#1D6FA4",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
